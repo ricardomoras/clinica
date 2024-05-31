@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "flyway.validateOnMigrate",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.validateOnMigrate'"
+  },
+  {
+    "name": "api.security.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'api.security.secret'"
+  }
+]}
